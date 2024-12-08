@@ -1,4 +1,20 @@
 
+<div 
+  style="display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh;">
+  <div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=30&width=600&lines=Hey+there👋!+My+name+is+Masoom.+;++I+am+a+tech+enthusiast+from+India" 
+        alt="Typing SVG" 
+        style="max-width: 100%;"
+      />     
+    </a>
+  </div>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Masoom Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
@@ -90,6 +106,8 @@
   </a> 
 
   
+
+  
 <table align="left">
   <tr>
     <td style="padding-right: 20px;">
@@ -103,6 +121,12 @@
 
 
 ![](https://leetcard.jacoblin.cool/masoomsingh0801?ext=heatmap)
+
+
+ <p align="center">
+  <img  src="https://github.com/aarushiksk/aarushiksk/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="example" />
+</p>
 
 
 <!---
