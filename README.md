@@ -52,7 +52,7 @@
 <a href="https://instagram.com/masoom.singh_" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masoom.singh_" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/masoomsingh0801/" target="blank">
+<a href="https://www.leetcode.com/https://leetcode.com/u/devmasoom/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/masoomsingh0801/" height="30" width="40" />
 </a>
 </p>
