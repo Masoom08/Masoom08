@@ -114,7 +114,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masoom08&show_icons=true&locale=en&layout=compact" alt="masoom08" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoom08&" alt="masoom08" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoom08" alt="masoom08" />
     </td>
   </tr>
 </table>
