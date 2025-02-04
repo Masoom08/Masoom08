@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [Easy Food](https://github.com/Masoom08/EasyFood)
 
-- 🌱 I’m making projects with Flutter and Kotlin 
+- 🌱 I’m making projects with Kotlin 
 
 - 💞️ I’m also practicing C++ for Competitive Coding 
 
