@@ -23,8 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom08&label=Profile%20views&color=0e75b6&style=flat" alt="masoom08" /> </p>
 
-- 🔭 I’m currently working on [Easy Food](https://github.com/Masoom08/EasyFood)
-
 - 🌱 I’m making projects with Kotlin 
 
 - 💞️ I’m also practicing C++ for Competitive Coding 
