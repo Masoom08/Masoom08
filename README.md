@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom08&label=Profile%20views&color=0e75b6&style=flat" alt="masoom08" /> </p>
 
-- 🌱 I’m making projects with Javascript - MERN Stack — MongoDB, Express, React, Node.js
+- 🌱 I’m making projects with Javascript - MERN Stack (MongoDB, Express, React, Node.js)
 
 - 💞️ I’m Practicing Data Structures & Algorithms C++ [https://leetcode.com/u/devmasoom/](https://leetcode.com/u/devmasoom/)
 
