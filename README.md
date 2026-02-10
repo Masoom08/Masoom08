@@ -17,19 +17,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Masoom Singh</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Full Stack Developer (MERN Stack) | Mobile App Developer | AI & ML Enthusiast</h3>
 
 <img align ="right" alt ="coding" width = "400" src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZiY3FocWNtMGwwMmJjMW0zNjhveWwzOW80ZjVubXk2NTRzdWY4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom08&label=Profile%20views&color=0e75b6&style=flat" alt="masoom08" /> </p>
 
-- 🌱 I’m making projects with Kotlin 
+- 🌱 I’m making projects with Javascript - MERN Stack — MongoDB, Express, React, Node.js
 
-- 💞️ I’m also practicing C++ for Competitive Coding 
+- 💞️ I’m Practicing Data Structures & Algorithms C++ [https://leetcode.com/u/devmasoom/](https://leetcode.com/u/devmasoom/)
 
 - 👨‍💻 All of my projects are available at [https://masoom08.github.io/](https://masoom08.github.io/)
 
-- 💬 Ask me about **Kotlin , C++ , Python**
+- 💬 Ask me about **MERN Stack, React, Node.js, Mobile Development, C++, Python**
 
 - 📫 How to reach me **masoomsingh0801@gmail.com**
 
